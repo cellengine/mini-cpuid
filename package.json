@@ -1,0 +1,12 @@
+{
+  "name": "mini-cpuid",
+  "version": "1.0.0",
+  "description": "Tiny utility to call cpuid",
+  "main": "index.js",
+  "repository": "https://github.com/primitybio/mini-cpuid",
+  "author": "zbjornson",
+  "license": "MIT",
+  "dependencies": {
+    "node-addon-api": "^5.0.0"
+  }
+}
